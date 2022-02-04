@@ -1,5 +1,5 @@
-# Fluke-Interview-Task
-Lambda function to fetch particular category data for Fluke.
+# Lambda-Example
+Lambda function to fetch particular category data.
 
 The response can be fetched via the endpoint:
 
